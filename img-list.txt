@@ -1,1 +1,5 @@
-registry.k8s.io/node-problem-detector/node-problem-detector:v0.8.14
+getsentry/sentry:24.1.0
+getsentry/snuba:24.1.0
+getsentry/relay:24.1.0
+getsentry/symbolicator:24.1.0
+getsentry/vroom:24.1.0
